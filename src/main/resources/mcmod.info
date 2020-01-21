@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "minibedrock",
+    "name": "MiniBedrock",
+    "description": "Allows you to break bedrock, woooo",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "MiniDigger"
+    ],
+    "credits": "Michael for getting me to do this",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
